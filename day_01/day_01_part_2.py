@@ -14,4 +14,3 @@ for i, a in enumerate(summed_array):
     if a > summed_array[i-1]:
         count += 1
 print(count)
-print(len(summed_array))
